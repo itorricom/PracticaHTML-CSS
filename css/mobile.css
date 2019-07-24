@@ -1,0 +1,17 @@
+@media (max-width: 600px){
+    /* ---Productos--- */
+    .products{
+        display: inherit;
+        height: auto;
+    }
+    .product{
+        margin-top: auto;
+    }
+    .main_section{
+        padding: 4%;
+    }
+    /* ---Beneficios y Mensiones--- */
+    .beneficios, .mentions{
+        display: inherit;
+
+}
